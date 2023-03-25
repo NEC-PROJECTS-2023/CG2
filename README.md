@@ -2,7 +2,7 @@
 Glaucoma Detection using Fundus Images Through Deep Learning
 
 <h2>TEAM MEMBERS</h2>
-  <ol>1. YUAVANA TAGORE (19471A05I5)</ol>
+  <ol>1. YUVANA TAGORE (19471A05I5)</ol>
   <ol>2. HADASSA.M      (1947A05E7)</ol>
   <ol>3. N.NIREEKSHANA  (1947A05H0)</ol>
 <hr>
